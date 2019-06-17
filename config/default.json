@@ -1,0 +1,4 @@
+{
+    "name": "Naody - Default",
+    "database": "mongodb://localhost/naody"
+}
